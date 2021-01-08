@@ -1,0 +1,18 @@
+name: PluginGUI
+version: 1.0
+main: me.jishunamatata.plugingui.PluginGUI
+authors: [JishunaMatata]
+api-version: 1.16
+
+commands:
+  plugins:
+    description: Open the plugin GUI
+    aliases: [pl]
+  plugingui:
+    aliases: [plgui]
+    usage: /plugingui <reload>
+permissions:
+  plugingui.reload:
+    description: Lets a user reload the plugin
+  plugingui.plugins:
+    description: Lets a user view the plugin GUI

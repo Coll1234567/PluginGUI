@@ -1,0 +1,17 @@
+enabled-plugin-item: GREEN_WOOL
+disabled-plugin-item: RED_WOOL
+
+messages:
+  not-player: '&cOnly players can use this command.'
+  no-permission: '&cYou do not have permission to do this.'
+  reload-success: '&aConfig Reloaded.'
+  inventory-name: '&0Plugins'
+  previous-page: '&6&lPrevious'
+  next-page: '&6&lNext'
+  plugins:
+    name: '&6&l%name%'
+    disabled-name: '&6&l%name% &c&l(Disabled)'
+    version: '&3Version: &6%version%'
+    authors: '&3Authors: &6%authors%'
+    website: '&3Website: &6%website%'
+    description: '&3Description: &6%description%'
