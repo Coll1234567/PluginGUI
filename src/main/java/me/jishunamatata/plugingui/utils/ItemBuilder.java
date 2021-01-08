@@ -1,4 +1,4 @@
-package me.jishunamatata.plugingui;
+package me.jishunamatata.plugingui.utils;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -18,10 +18,10 @@ import org.bukkit.persistence.PersistentDataType;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginDescriptionFile;
 
-import me.jishunamatata.plugingui.ItemBuilder;
 import me.jishunamatata.plugingui.PluginGUI;
 import me.jishunamatata.plugingui.gui.CustomInventory;
 import me.jishunamatata.plugingui.gui.CustomInventoryManager;
+import me.jishunamatata.plugingui.utils.ItemBuilder;
 import me.jishunamatata.plugingui.utils.Utils;
 
 public class PluginCommand implements CommandExecutor {
